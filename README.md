@@ -2,8 +2,9 @@
 Implements Siamese Neural Network for One Shot Image Recognition
 
 ## Dependencies
-1. Unzip the file at [this](https://drive.google.com/file/d/1Uiw4CZk1unSKW6GH2BFoGd9lRrKVaQT3/view?usp=sharing) location and add those files in **20180402-114759** folder
-2. Python modules required are
+1. Unzip the file at [this](https://drive.google.com/file/d/1Uiw4CZk1unSKW6GH2BFoGd9lRrKVaQT3/view?usp=sharing) location and add those files in **20180402-114759** folder (These are pre-trained weights)
+2. Pre-trained models are alread present in **mtcnn** folder
+3. Python modules required are
    - tensorflow==1.13.1
    - numpy==1.16.3
    - sklearn==0.20.0
@@ -30,5 +31,11 @@ python rest-server
 ```
 
 The last commands launches a server at http://127.0.0.1:5000/ on which the FR system can be accessed
+
+In case you want to train your own models, follow these 2 links:
+
+
+* Facenet training: https://github.com/davidsandberg/facenet/wiki
+* MTCNN training: https://github.com/wangbm/MTCNN-Tensorflow
 
 Feel free to ping me in case anything is broken. Thanks for visiting. Cheers!
