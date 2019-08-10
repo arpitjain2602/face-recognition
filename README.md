@@ -17,6 +17,7 @@ Implements Siamese Neural Network for One Shot Image Recognition
 ## Handling data
 Enter your images in the folder **data**
 Make sure you enter images class-wise, i.e. if you have photos of 100 different people, make 100 folders inside **data** and keep at least 1 image inside each of it.
+
 Note: Seems like there is some issue with using .png images. Try using .jpeg or .jpg 
 
 ## Running the model
