@@ -1,2 +1,2 @@
 # face-recognition
-Implements One Shot Learning via Siamese Network
+Implements Siamese Neural Network for One Shot Image Recognition
