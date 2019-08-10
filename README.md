@@ -29,4 +29,4 @@ python rest-server
 
 The last commands launches a server at http://127.0.0.1:5000/ on which the FR system can be accessed
 
-Feel free to ping me in case anything is broken. Thanks for visiting. Cheers! :simple_smile:
+Feel free to ping me in case anything is broken. Thanks for visiting. Cheers!
